@@ -38,7 +38,7 @@ Randomized Search | do-what-it-says
   1. Enter node liri.js followed by your LIRI-Command and search parameters. 
   Example: `node liri.js movie-this donnie darko`
   
-[Video guide!](./guide.mp4)
+[Video guide](./guide.mp4)
 
 ### Technologies
 * [OMDB API](http://www.omdbapi.com)
